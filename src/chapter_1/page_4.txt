@@ -6,4 +6,4 @@ just update
 
 without fetch
 
-addtional informaiton
+additional information
